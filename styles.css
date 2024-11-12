@@ -44,7 +44,7 @@ h1, h5, h4 {
 }
 
 .text-muted {
-    color: var(--muted-text);
+    color: var(--muted-text) !important;
 }
 
 a {
